@@ -34,7 +34,7 @@ Classify SMS messages as **ham** or **spam** using a traditional ML workflow in 
 
 ---
 
-## 📊 Your EDA & Results
+## 📊 EDA & Results
 
 ### Class distribution
 ```
