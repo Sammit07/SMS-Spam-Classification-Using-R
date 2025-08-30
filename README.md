@@ -1,8 +1,8 @@
 # 📱 SMS Spam Classification in R (caret + quanteda)
 
 Classify SMS messages as **ham** or **spam** using a traditional ML workflow in R: text preprocessing with **quanteda**, a **Document-Feature Matrix (DFM)**, and a **Decision Tree (rpart via caret)** with repeated cross-validation.
-![Distribution of Text Lengths with Class Labels] <img width="575" height="304" alt="Rplot" src="https://github.com/user-attachments/assets/8ffc5a9b-b1a7-4488-8084-018e2c8fada8" />
-
+<img width="575" height="304" alt="Rplot" src="https://github.com/user-attachments/assets/8ffc5a9b-b1a7-4488-8084-018e2c8fada8" />
+![Distribution of Text Lengths with Class Labels]
 ---
 
 ## 🔎 Project Overview
